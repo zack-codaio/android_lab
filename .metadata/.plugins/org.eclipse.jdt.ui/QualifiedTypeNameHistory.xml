@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="android.widget.FrameLayout"/>
+<fullyQualifiedTypeName name="android.graphics.Canvas"/>
+<fullyQualifiedTypeName name="android.graphics.Paint.Style"/>
+<fullyQualifiedTypeName name="android.graphics.Bitmap"/>
+<fullyQualifiedTypeName name="android.graphics.NinePatch"/>
+<fullyQualifiedTypeName name="android.graphics.Typeface"/>
+<fullyQualifiedTypeName name="android.graphics.Rect"/>
+<fullyQualifiedTypeName name="android.graphics.Paint"/>
+<fullyQualifiedTypeName name="android.graphics.PorterDuffXfermode"/>
+<fullyQualifiedTypeName name="android.graphics.AvoidXfermode.Mode"/>
+<fullyQualifiedTypeName name="android.graphics.PorterDuff.Mode"/>
+<fullyQualifiedTypeName name="android.graphics.Path"/>
+<fullyQualifiedTypeName name="android.graphics.RectF"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.action.FSMAction"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.action.DebugAction"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.action.StringAction"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.action.XYAction"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.action.ChangeImageAction"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.event.FSMEvent"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.event.ButtonPressedEvent"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.action.SendMessageAction"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.event.MessageEvent"/>
+<fullyQualifiedTypeName name="android.view.MotionEvent"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.event.TouchMoveEvent"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.event.TouchReleaseEvent"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.event.DragEndEvent"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.event.DragMoveEvent"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.event.TouchPressEvent"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.action.RunAnimAction"/>
+<fullyQualifiedTypeName name="ssuimobile.gameengine.event.XYEvent"/>
+</qualifiedTypeNameHistroy>
